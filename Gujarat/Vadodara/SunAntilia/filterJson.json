@@ -1,0 +1,19 @@
+{
+"district":"Vadodara",
+"projectList":[
+    {
+        "reraNo":"PR/GJ/VADODARA/VADODARA/Others/RAA04671/110119",
+        "promoterName":"SHIV SHAKTI INFRA",
+        "unitTypeList":"["Apartment"]",
+        "bedroomsList":"["3"]",
+        "projectFolder":"sun-antilia",
+        "elevationThumbImage":"sun-antilia-elevation.jpg",
+        "name":"Sun Antilia",
+        "address":"Nr Siddheshwar Happy Homes ,Bh Cygnus World School, Harni Motnath Road",
+        "textOfSellingItems":"2 & 3 BHK Apartment - Shops",
+        "carpetArea":"1000.0",
+        "contactToDisplay":"9725553332, 9725553336",
+        "price":"37.0"
+    },
+]
+}
